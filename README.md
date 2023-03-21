@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on my final degree work<br>🌱 I’m currently learning smart contracts and web3 development
+# Hi there 👋, I'm Marc González!:
+I am a cybersecurity engineer with a degree in computer engineering.<br><br>Passionate about blockchain technology and learning about smart contracts and web3 development.
 
 
 ## 🌐 Socials:
