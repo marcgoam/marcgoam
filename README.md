@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Marc González!:
-I am a cybersecurity engineer with a degree in computer engineering.<br><br>Passionate about blockchain technology and learning about smart contracts and web3 development.
-
+Penetration testing specialist with practical experience in security assessments in web, infrastructure, and desktop environments. Currently expanding knowledge in Red Team operations, with a strong motivation to grow in the field of offensive security. Proactive, detail-oriented professional with a keen interest in contributing to high-impact cybersecurity projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcgoam)
